@@ -1,4 +1,7 @@
 # Cyber Supply Chain Tower Game
+
+[![Join the chat at https://gitter.im/SupplyChainSandbox/SupplychainSandbox-BlockGame](https://badges.gitter.im/SupplyChainSandbox/SupplychainSandbox-BlockGame.svg)](https://gitter.im/SupplyChainSandbox/SupplychainSandbox-BlockGame?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Supply Chain Game is a fast-paced, fun tower building competition (similar to Jenga) that teaches cyber supply chain principles. The game was designed and developed for the Supply Chain Sandbox at the 2020 RSA Conference. 
 
 ## Original rules
